@@ -1,0 +1,12 @@
+.button{
+padding:12px;
+width:60px;
+}
+.button:hover{
+color:blue;
+background-color: yellow;
+}
+.button:focus{
+    background-color: grey;
+    color:blue;
+}

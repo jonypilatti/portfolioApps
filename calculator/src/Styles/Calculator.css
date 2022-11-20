@@ -1,0 +1,21 @@
+.frame{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    position:sticky;
+    left:39%;
+    width:270px;
+    padding:25px;
+    border: 1px solid black; 
+    background-color: lightblue;
+}
+.main-calc{
+    box-sizing: border-box;
+
+}
+.button-row{
+    display:flex;
+    gap:6px;
+    padding:4px;
+    flex-direction: row;
+}
